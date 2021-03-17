@@ -1,0 +1,21 @@
+/* STEP 10 stilizzo il messaggio di successo => STEP 11 installo bcrypt e lo importo in App.js*/
+
+ul.success li {
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  color: #3c7634;
+  background-color: #dff0d8;
+  border-color:teal;
+}
+
+ul.error li {
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  color: #b3229f;
+  background-color: #ee850d;
+  border-color:rgb(199, 219, 16);
+}
